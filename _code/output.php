@@ -52,10 +52,10 @@
 				'abgabennamen' =>
 					'Team Galaktik'.$br.'Giovanni\'s Ressurection (Giovannis Auferstehung) '.$br.
 					'Mordskampf'.$br.'Von Hochmut und Fall'.$br.'Der Silberberg'.$br.'Schatten der Vergangenheit'
-					.$br.'Pikachu, diesmal kriegen wir dich (geklont)!'.$br.'Leia'.$br.'Das Schicksalstreffen²'
-					.$br.'Douleur de coeur (Herzschmerz)'.$br.'Kontinuum'.$br.'Zeitenr&uuml;uber'.$br.'Die letzte Reise'
-					.$br.'Phantomschmerz'.$br.'Neumondträume'.$br.'Triumpf und Scheitern'.$br.'Der Überfall'.$br.
-					'So möge es denn enden in Feuer und Rauch'.$br.'Eine von vielen Geschichten',
+					.$br.'Pikachu, diesmal kriegen wir dich (geklont)!'.$br.'Leia'.$br.'Das Schicksalstreffen&#178;'
+					.$br.'Douleur de coeur (Herzschmerz)'.$br.'Kontinuum'.$br.'Zeitenr&auml;uber'.$br.'Die letzte Reise'
+					.$br.'Phantomschmerz'.$br.'Neumondtr&auml;ume'.$br.'Triumpf und Scheitern'.$br.'Der &Uuml;berfall'.$br.
+					'So m&ouml;ge es denn enden in Feuer und Rauch'.$br.'Eine von vielen Geschichten',
 
 				'teilnehmerids' => 
 					'98435'.$br.'99718'.$br.'83241'.$br.'67941'.$br.'87558'.$br.'26771'.$br.'98383'
